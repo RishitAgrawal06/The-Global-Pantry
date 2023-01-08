@@ -8,7 +8,7 @@ This website has been developed for the 'Byte the Web' Hackathon. This project u
 
 ## Screenshots
 
-![Landing](/public/Landing.jpg?raw=true)
+
 
 -------------------------------------------
 ## Inspiration
