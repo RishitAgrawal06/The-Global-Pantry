@@ -7,8 +7,23 @@
 This website has been developed for the 'Byte the Web' Hackathon. This project uses `HTML`, `CSS`, `JS`, `Next.js`, `TailwindCSS`, and a bit of `React`. It was written primarily in `JS` and some `TypeScript`. It is a landing page website which presents the culture and cuisine of the world in a very aesthetic manner. Providing descriptions for six of the many cuisines in the world as well as a full, six-course meal, to cook up inspiration. It also contains a search bar which can redirect any search for a recipe made directly to Google to assist users in furthering their culinary journey.
 
 ## Screenshots
-
-
+![1](https://user-images.githubusercontent.com/71906601/211213526-a7170869-435e-48cf-ac5b-04d08a2b527d.png)
+![2](https://user-images.githubusercontent.com/71906601/211213532-d7189f99-e02a-41c9-b80b-2861e7a12c42.png)
+![3](https://user-images.githubusercontent.com/71906601/211213540-2ed1c06a-a543-4212-9580-11d0401ace4c.png)
+![4](https://user-images.githubusercontent.com/71906601/211213546-d99ed242-6cbb-449e-abff-ab333e282014.png)
+![7](https://user-images.githubusercontent.com/71906601/211213821-bb595664-871c-44fa-80b6-046b1ab15add.png)
+![8](https://user-images.githubusercontent.com/71906601/211213828-c5b73d8b-6745-4d3b-b1a9-e054ee684f69.png)
+![9](https://user-images.githubusercontent.com/71906601/211213832-73932124-e95f-4734-b321-803b23e0a1e4.png)
+![10](https://user-images.githubusercontent.com/71906601/211213840-e0e0136b-623b-4465-adcb-29bd2a33d323.png)
+![11](https://user-images.githubusercontent.com/71906601/211213845-55a6a413-b234-4dc3-bc52-8cf53d4fb8b3.png)
+![12](https://user-images.githubusercontent.com/71906601/211213848-38216535-7798-4eb9-bc08-01390a181116.png)
+![13](https://user-images.githubusercontent.com/71906601/211213850-099a0937-f327-46d6-bae0-a2bf0f29471a.png)
+![14](https://user-images.githubusercontent.com/71906601/211213855-64e6aff5-ff04-4427-a9e9-52cc407d7c1c.png)
+![15](https://user-images.githubusercontent.com/71906601/211213863-a4538b7d-b7a4-4710-82b5-a9e123afa1dc.png)
+![16](https://user-images.githubusercontent.com/71906601/211213870-03c33d43-1b73-4121-91b2-752dfb0339f4.png)
+![5](https://user-images.githubusercontent.com/71906601/211213555-358fb774-7033-45bc-802b-444fbd0e3561.png)
+![17](https://user-images.githubusercontent.com/71906601/211213875-2a5bb45e-8981-4d97-9abd-b9348f367f7f.png)
+![18](https://user-images.githubusercontent.com/71906601/211213878-c10a1ff4-eae6-4641-91d5-be1cd9e36793.png)
 
 -------------------------------------------
 ## Inspiration
